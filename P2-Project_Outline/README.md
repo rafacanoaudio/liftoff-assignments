@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app is designed to allow you to keep track of all the cool new things that are coming out. Instead of all this info being spread across websites and mailing lists and push notifications, we're proposing a central location for users to be able to find what they're looking for, and have a countdown for it as well! Since it'll be user based our customers will be able to not only save the items they find but he app can also suggest similar events that the user may be interested in also share friends and fellow fans!
 ### Features
 Include Features here
 ### Technologies
