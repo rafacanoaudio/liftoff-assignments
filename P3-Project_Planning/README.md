@@ -7,8 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- https://github.com/rafacanoaudio/liftoff-assignments/blob/master/P3-Project_Planning/Screen%20Shot%202021-01-22%20at%201.58.03%20PM.png
+- https://github.com/rafacanoaudio/liftoff-assignments/blob/master/P3-Project_Planning/Screen%20Shot%202021-01-22%20at%201.59.01%20PM.png
 
 ### Project Tracker
 
